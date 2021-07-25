@@ -1,1 +1,1 @@
-A research project regarding discretionary spending during the COVID-19 pandemic.
+A research project regarding percieved changes in discretionary spending during the COVID-19 pandemic.
